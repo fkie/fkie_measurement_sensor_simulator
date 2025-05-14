@@ -12,9 +12,9 @@
 
     sources/source_1/name: "hot-spot 2"
     sources/source_1/intensity: 10.0
-    sources/source_1/x: 1.0
-    sources/source_1/y: 3.0
-    sources/source_1/z: 1.0
+    sources/source_1/x: 367268.37
+    sources/source_1/y: 5609545.24
+    sources/source_1/z: 255.
     sources/source_1/function: "inverse_squared"
     sources/source_1/linear_alpha: 5.0
     sources/source_1/color_rgba: [0.0, 0.0, 0.7, 0.8]
@@ -22,9 +22,9 @@
 
     sources/source_2/name: "hot-spot 3"
     sources/source_2/intensity: 10.0
-    sources/source_2/x: 2.0
-    sources/source_2/y: 2.0
-    sources/source_2/z: 1.0
+    sources/source_2/x: 367258.37
+    sources/source_2/y: 5609555.24
+    sources/source_2/z: 255.
     sources/source_2/function: "exponential"
     sources/source_2/exponential_decay_rate: 3.0
     sources/source_2/color_rgba: [0.7, 0.0, 0.0, 0.8]
